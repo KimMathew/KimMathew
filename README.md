@@ -1,82 +1,35 @@
+<a href="https://github.com/KimMathew">
+  <img src="./assets/banner.jpg" alt="banner" width="100%" />
+</a>
+
 <div align="center">
-
-<img src="./assets/banner.jpg" alt="banner" width="100%" />
-
-<!-- ============ STAT BADGES ============ -->
-<img src="https://img.shields.io/badge/STARS-0-black?style=flat-square&logo=github" />
-<img src="https://img.shields.io/badge/FORKS-0-black?style=flat-square&logo=git" />
-<img src="https://img.shields.io/badge/FOLLOWERS-0-black?style=flat-square&logo=github" />
-
-<br /><br />
-
-## Know About Me
-
+  <a href="https://github.com/KimMathew?tab=repositories"><img alt="Stars" title="Stars Profile" src="https://img.shields.io/github/stars/KimMathew?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiPjwvcGF0aD48L3N2Zz4=" /></a>
+  &nbsp;
+  <a href="https://github.com/KimMathew?tab=repositories"><img alt="Forks" title="Forks Repository" src="https://img.shields.io/github/forks/KimMathew/Mathew?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTUgNS4zNzJ2Ljg3OGMwIC40MTQuMzM2Ljc1Ljc1Ljc1aDQuNWEuNzUuNzUgMCAwIDAgLjc1LS43NXYtLjg3OGEyLjI1IDIuMjUgMCAxIDEgMS41IDB2Ljg3OGEyLjI1IDIuMjUgMCAwIDEtMi4yNSAyLjI1aC0xLjV2Mi4xMjhhMi4yNTEgMi4yNTEgMCAxIDEtMS41IDBWOC41aC0xLjVBMi4yNSAyLjI1IDAgMCAxIDMuNSA2LjI1di0uODc4YTIuMjUgMi4yNSAwIDEgMSAxLjUgMFpNNSAzLjI1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBabTYuNzUuNzVhLjc1Ljc1IDAgMSAwIDAtMS41Ljc1Ljc1IDAgMCAwIDAgMS41Wm0tMyA4Ljc1YS43NS43NSAwIDEgMC0xLjUgMCAuNzUuNzUgMCAwIDAgMS41IDBaIj48L3BhdGg+PC9zdmc+" /></a>
+  &nbsp;
+  <a href="https://github.com/KimMathew?tab=followers"><img alt="Followers" title="Github Followers" src="https://img.shields.io/github/followers/KimMathew?style=for-the-badge&color=000000&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIgNS41YTMuNSAzLjUgMCAxIDEgNS44OTggMi41NDkgNS41MDggNS41MDggMCAwIDEgMy4wMzQgNC4wODQuNzUuNzUgMCAxIDEtMS40ODIuMjM1IDQgNCAwIDAgMC03LjkgMCAuNzUuNzUgMCAwIDEtMS40ODItLjIzNkE1LjUwNyA1LjUwNyAwIDAgMSAzLjEwMiA4LjA1IDMuNDkzIDMuNDkzIDAgMCAxIDIgNS41Wk0xMSA0YS43NS43NSAwIDEgMCAwIDEuNSAxLjUgMS41IDAgMCAxIC42NjYgMi44NDQuNzUuNzUgMCAwIDAtLjQxNi42NzJ2LjM1MmEuNzUuNzUgMCAwIDAgLjU3NC43M2MxLjIuMjg5IDIuMTYyIDEuMiAyLjUyMiAyLjM3MmEuNzUuNzUgMCAxIDAgMS40MzQtLjQ0IDUuMDEwIDUuMDEwIDAgMCAwLTMuMTAyLTMuMTY4QTMgMyAwIDAgMCAxMSA0Wm0tNS41LS41YTIgMiAwIDEgMCAwIDQgMiAyIDAgMCAwIDAtNFoiPjwvcGF0aD48L3N2Zz4=" /></a>
 </div>
 
-<table>
-<tr>
-<td width="180" align="center" valign="top">
-  <img src="./assets/brain.png" alt="brain" width="150" />
-</td>
-<td valign="top">
-
-**Hey there! I'm [Your Name]**
-
-[One or two sentences about your field of study or work.] By day, [what you do professionally / academically]. By night, [a hobby or side interest, written with a bit of humor]. When I'm not [working/coding], I'm usually [something you enjoy doing].
-
-</td>
-</tr>
-</table>
-
-<br />
-
 <div align="center">
-
-## 🔗 Top Projects (built to avoid manual labor)
-
+  <h2>Know About Me</h2>
 </div>
 
-<table>
-<tr>
-<td valign="top">
+<img src="./assets/room.jpg" alt="room" width="200" align="left" style="margin-right: 15px;">
 
-[![repo-name](https://img.shields.io/badge/-PROJECT__ONE-111111?style=flat-square&logo=github)](https://github.com/yourusername/project-one)
-&nbsp;[Short one-line description of what it does, with a little personality.]
+<div align="justify">
+  <h3>Hey there! I’m Karthick</h3>
+  I'm an AI & Data Science undergrad fueled by sambar and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a highly stressful Fortune 500 company.
+  <br><br>
+  
+  <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
+  
+  <img src="./assets/shambles.jpg" alt="shambles" width="200" align="right" style="margin-left: 15px;">
+  
+  <h3>Top Projects (built to avoid manual labor)</h3>
+  <a href="https://github.com/Synaptara/File-ghost"><img src="https://img.shields.io/badge/FileGhost-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Secure file sharing, because some code needs to self-destruct gracefully.<br>
+  <a href="https://github.com/Synaptara/Gen-Ghost_v1"><img src="https://img.shields.io/badge/Gen%20Ghost%20v1-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Discord bot that manages my server better than I manage my sleep schedule.<br>
+  <a href="https://github.com/Synaptara/QNDOCS"><img src="https://img.shields.io/badge/Qn%20Docs-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; RAG-based AI to read text files for me, because reading is hard.
 
-[![repo-name](https://img.shields.io/badge/-PROJECT__TWO-111111?style=flat-square&logo=github)](https://github.com/yourusername/project-two)
-&nbsp;[Short one-line description of what it does.]
-
-[![repo-name](https://img.shields.io/badge/-PROJECT__THREE-111111?style=flat-square&logo=github)](https://github.com/yourusername/project-three)
-&nbsp;[Short one-line description of what it does.]
-
-</td>
-<td width="150" align="center" valign="top">
-  <img src="./assets/flame.png" alt="flame" width="120" />
-</td>
-</tr>
-</table>
-
-<br />
-
-<div align="center">
-
-## 🔗 Connect
-
-[![GitHub](https://img.shields.io/badge/-GITHUB-111111?style=flat-square&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-111111?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Gmail](https://img.shields.io/badge/-GMAIL-111111?style=flat-square&logo=gmail)](mailto:you@example.com)
-[![Resume](https://img.shields.io/badge/-RESUME-111111?style=flat-square&logo=googledocs)](https://yourresumeurl.com)
-
-<br />
-
-> [A short quote or motto about coding/your field.]
->
-> [A second, longer quote — maybe self-deprecating humor about your work, spanning a couple of lines to match the style.]
-
-<br />
-
-## 🔗 Contribution
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff" alt="contribution graph" width="100%" />
-
+  
+  <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
 </div>
