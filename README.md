@@ -22,7 +22,7 @@
   sure the user experience feels completely seamless. <br><br> When I’m away from the keyboard, I’m usually focusing on fitness or catching up on anime (which you’ll probably notice all over my profile theme).
 </div>
 
-<br><br>
+<br><br><br>
 
 <div align="center">
   <h2>Technologies</h2>
