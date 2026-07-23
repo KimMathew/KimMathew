@@ -17,7 +17,7 @@
 <img src="./assets/room.png" alt="room" width="250" align="left" style="margin-right: 15px;">
 
 <div align="justify">
-  <h2>Hey there! I’m Mathew</h2>
+  <h3>Hey there! I’m Mathew</h3>
   I'm an AI & Data Science undergrad fueled by sambar and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a highly stressful Fortune 500 company.
   <br><br>
   
