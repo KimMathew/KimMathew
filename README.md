@@ -46,8 +46,7 @@
   <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=3DDC84">
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E">
   
-  <br>
-  <img src="./assets/shambles.png" alt="shambles" width="30%">
+  <img src="./assets/shambles.png" alt="shambles" width="35%">
 </div>
 
 
