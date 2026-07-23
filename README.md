@@ -26,9 +26,7 @@
 
 <div align="center">
   <h2>Technologies</h2>
-</div>
 
-<div align="center">
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF">
@@ -46,10 +44,17 @@
   <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FFFFFF">
 
-
   <br>
   <img src="./assets/shambles.png" alt="shambles" width="35%">
 </div>
+
+<div align="center">
+  <h2>Contribution</h2>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimMathew&theme=github-compact&hide_border=true&hide_title=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff" alt="contribution graph" width="100%">
+</div>
+
+
 
 
 
