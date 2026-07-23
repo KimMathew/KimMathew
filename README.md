@@ -50,7 +50,8 @@
 
 <div align="center">
   <h2>Contribution</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimMathew&theme=github-compact&hide_border=true&hide_title=true&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff" alt="contribution graph" width="100%" style="margin-top: -40px;">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimMathew&theme=github-compact&hide_border=true&hide_title=true&height=300&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff" alt="contribution graph" width="100%">
 </div>
 
 
