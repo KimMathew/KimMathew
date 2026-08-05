@@ -14,7 +14,7 @@
   <h2>Know About Me</h2>
 </div>
 
-<img src="./assets/room.png" alt="room" width="250" align="left" style="margin-right: 15px;">
+<img src="./assets/rooms.png" alt="room" width="250" align="left" style="margin-right: 15px;">
 
 <div align="justify">
   <h3>Hey there! I’m Mathew</h3>
